@@ -78,6 +78,14 @@
           "description": "Synology NAS 提供功能完整的网络存储 (NAS) 解决方案，可让您轻松管理及备份数据，并在 Windows、Mac 及 Linux 计算机之间分享数据。",
           "icon": "/assets/favicon_1756534350951.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1756534451851_jefh6wihi",
+          "title": "飞牛 fnOS",
+          "href": "https://fn.190009.xyz/",
+          "description": "飞牛NAS",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=fn.190009.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
