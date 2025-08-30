@@ -92,6 +92,14 @@
           "description": "Beautiful & consistent icon toolkit made by the community.",
           "icon": "/assets/favicon_1754229702059.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1756533425067_fbllk4hkf",
+          "title": "CC博客",
+          "href": "https://cc.190009.xyz/",
+          "description": "cc个人博客",
+          "icon": "/assets/favicon_1756533404982.ico",
+          "enabled": true
         }
       ],
       "subCategories": [],
