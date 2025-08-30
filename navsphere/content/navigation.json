@@ -38,6 +38,14 @@
           "description": "访问 frp.190009.xyz",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=frp.190009.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1756533994750_inyk40jan",
+          "title": "1panel",
+          "href": "https://888.190009.xyz",
+          "description": "1panel网站",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=888.190009.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
