@@ -30,6 +30,14 @@
           "description": "服务器监控",
           "icon": "/assets/favicon_1756533827305.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756533891296_n1kled7qg",
+          "title": "Frp",
+          "href": "https://frp.190009.xyz/",
+          "description": "访问 frp.190009.xyz",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=frp.190009.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
