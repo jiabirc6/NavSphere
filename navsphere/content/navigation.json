@@ -54,6 +54,14 @@
           "description": "PrivateBin",
           "icon": "/assets/favicon_1756534070330.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756534141028_2zl8qhmz7",
+          "title": "copyparty-ac-1",
+          "href": "https://pypa.190009.xyz/",
+          "description": "copyparty网盘",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=pypa.190009.xyz",
+          "enabled": true
         }
       ],
       "subCategories": []
