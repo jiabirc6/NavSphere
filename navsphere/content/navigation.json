@@ -900,6 +900,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1756533621052",
+      "title": "个人导航",
+      "icon": "Home",
+      "description": "CC个人导航专用",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
