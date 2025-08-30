@@ -62,6 +62,14 @@
           "description": "copyparty网盘",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=pypa.190009.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1756534221031_bvlpy1lb4",
+          "title": "Dpanel",
+          "href": "https://docker.190009.xyz/",
+          "description": "Ubuntu-Dpanel",
+          "icon": "/assets/favicon_1756534189893.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
