@@ -22,6 +22,14 @@
           "description": "影视聚合",
           "icon": "/assets/favicon_1756533787441.png",
           "enabled": true
+        },
+        {
+          "id": "site_1756533844755_c4k6k1t3u",
+          "title": "哪吒监控 Nezha Monitoring",
+          "href": "https://nz.190009.xyz/",
+          "description": "服务器监控",
+          "icon": "/assets/favicon_1756533827305.png",
+          "enabled": true
         }
       ],
       "subCategories": []
