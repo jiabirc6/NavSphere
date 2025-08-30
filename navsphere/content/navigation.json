@@ -6,13 +6,6 @@
       "icon": "Home",
       "description": "CC个人导航专用",
       "enabled": true,
-      "items": [],
-      "subCategories": []
-    },
-    {
-      "id": "1",
-      "title": "常用推荐",
-      "icon": "Star",
       "items": [
         {
           "id": "site_1756533425067_fbllk4hkf",
@@ -21,7 +14,15 @@
           "description": "cc个人博客",
           "icon": "/assets/favicon_1756533404982.ico",
           "enabled": true
-        },
+        }
+      ],
+      "subCategories": []
+    },
+    {
+      "id": "1",
+      "title": "常用推荐",
+      "icon": "Star",
+      "items": [
         {
           "id": "1_2",
           "title": "Vercel",
