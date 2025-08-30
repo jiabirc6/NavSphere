@@ -86,6 +86,14 @@
           "description": "飞牛NAS",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=fn.190009.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1756534491452_8wmbo05b2",
+          "title": "PanSou 盘搜",
+          "href": "https://pan.190009.xyz/",
+          "description": "盘搜",
+          "icon": "/assets/favicon_1756534478807.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
