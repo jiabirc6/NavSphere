@@ -46,6 +46,14 @@
           "description": "1panel网站",
           "icon": "https://www.google.com/s2/favicons?sz=128&domain=888.190009.xyz",
           "enabled": true
+        },
+        {
+          "id": "site_1756534088636_rwrnh28y6",
+          "title": "PrivateBin",
+          "href": "https://pr.190009.xyz/",
+          "description": "PrivateBin",
+          "icon": "/assets/favicon_1756534070330.png",
+          "enabled": true
         }
       ],
       "subCategories": []
