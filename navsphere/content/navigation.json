@@ -94,6 +94,14 @@
           "description": "盘搜",
           "icon": "/assets/favicon_1756534478807.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1756689183443_jg991m1lb",
+          "title": "青龙",
+          "href": "https://ql.190009.xyz/",
+          "description": "青龙定时任务",
+          "icon": "/assets/favicon_1756689158227.svg",
+          "enabled": true
         }
       ],
       "subCategories": []
