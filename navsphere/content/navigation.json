@@ -102,6 +102,14 @@
           "description": "青龙定时任务",
           "icon": "/assets/favicon_1756689158227.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1756689228844_ruqcv04nt",
+          "title": "qBittorrent WebUI",
+          "href": "https://qb.190009.xyz/",
+          "description": "qBittorrent WebUI",
+          "icon": "/assets/favicon_1756689222640.png",
+          "enabled": true
         }
       ],
       "subCategories": []
